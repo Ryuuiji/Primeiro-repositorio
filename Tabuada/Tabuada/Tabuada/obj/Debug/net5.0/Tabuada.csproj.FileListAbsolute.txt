@@ -1,0 +1,16 @@
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.exe
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.deps.json
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.json
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.dev.json
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.dll
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\bin\Debug\net5.0\ref\Tabuada.dll
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.pdb
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.csprojAssemblyReference.cache
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfoInputs.cache
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfo.cs
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.csproj.CoreCompileInputs.cache
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.dll
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\ref\Tabuada.dll
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.pdb
+F:\Programação\Projeto Dio\Primeiro repositorio\Primeiro-repositorio\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.genruntimeconfig.cache
