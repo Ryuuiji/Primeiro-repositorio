@@ -1,2 +1,2 @@
-# Primeiro-repositorio
-Repositório para projeto da DIO
+# Primeiro repositório
+Repositório criado para projeto de curso da DIO.
